@@ -1,4 +1,4 @@
-## Study-of-the-Effects-of-Climate-Change-on-Crop-Yields
+## Study of the Effects of Climate Change on Crop Yields
 ### Prediction of crop yields based on climate variables using machine learning algorithms 
 #### Data
 The data contains 28242 rows and 7 columns

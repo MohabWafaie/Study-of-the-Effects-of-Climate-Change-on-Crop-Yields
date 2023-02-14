@@ -10,3 +10,6 @@ the columns are :
 5- Pesticides tonnes
 6- Average temperature
 7- hg/ha_yield (Output)
+#### Preprocessing
+1- I hot encoded categorical data usnig pandas get dummis
+2-

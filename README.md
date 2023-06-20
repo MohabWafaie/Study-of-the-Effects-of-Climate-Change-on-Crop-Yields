@@ -22,7 +22,7 @@ The data contains 28242 rows and 7 columns
 
 ## Preprocessing
 1- Dropped the "Year" column because it has no relevance  
-2- Hot encoded categorical data usnig pandas get dummis  
+2- Hot encoded categorical data using pandas get dummis  
 3- Split the data into X (features) and Y (output)  
 4- Normalized the feature columns to be between 0 and 1  
 5- Split the data into 80% for training and 20% for testing  
